@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 '''
 Esta Clase recibe un valor entrero y lo convierte en un número romano.
 El valor máximo es de 89'999,999
